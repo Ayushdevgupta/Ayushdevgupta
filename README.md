@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ayushagarwal.dev%2Fdaily-frontend-briefing-5-js-react-5182249bf97b&psig=AOvVaw1rFrcfadi8Brl1Q8nvObQS&ust=1761222546079000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjLk73nt5ADFQAAAAAdAAAAABAE)
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 <h3 align="center">A passionate Frontend Engineer from India</h3>
